@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "618bd4aa854003bfe9eb7710"
+  },
+  "id_user": "20delizee",
+  "user_account": "collaborateur",
+  "nom": "Delizee",
+  "prenom": "Quentin",
+  "password": "$2b$10$zjH8EbQZ3BUX9CgOEOBN6eDnNKqMvbgbxpjHw1vzYSw/p/1Y5Rrie",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618bd4bf854003bfe9eb7712"
+  },
+  "id_user": "20courtot",
+  "user_account": "collaborateur",
+  "nom": "Courtot",
+  "prenom": "Lucas",
+  "password": "$2b$10$E0LQYJZDS3NrwfRGq9FHBuGkqqZ3SkemNawPwF3d8LwdOjIEnWvRy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a4acef93d3c8cad41bc668"
+  },
+  "id_user": "20ettouil",
+  "user_account": "collaborateur",
+  "nom": "Ettouil",
+  "prenom": "Adel",
+  "password": "$2b$10$jTn0ZjdKR6dwlnAL7/ncAuyruvQXQttgP4Y.sQiugFP6TecbaSJkW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ab6f3167d30408b80ee9d5"
+  },
+  "id_user": "Correcteur",
+  "user_account": "correcteur",
+  "nom": "Correcteur",
+  "prenom": "Correcteur",
+  "password": "$2b$10$MX6Igg6xZ1VQ9QfGK0gjp.ureYYyKq.fnZm98tAGIS3dv2YcleC9e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b0bc5237d6f9e867c2432e"
+  },
+  "id_user": "jean",
+  "user_account": "collaborateur",
+  "nom": "jean",
+  "prenom": "bon",
+  "password": "$2b$10$KzRujAnvcIy2MxyG2ZHEY.TgJZJjUwuqZRqJq/XN9O0KdeWjoVLGq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6239cd94343cab2c01a258f4"
+  },
+  "id_user": "test",
+  "user_account": "collaborateur",
+  "nom": "test",
+  "prenom": "test",
+  "password": "$2b$10$NhqVTaiEpDuSqvrN5aCZl.UVc3JfrcxqNs/DUJ4MrejAZ7FEEbNwS",
+  "__v": 0
+}]

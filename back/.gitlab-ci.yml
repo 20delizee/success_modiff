@@ -1,0 +1,11 @@
+deploy_staging:
+  type: deploy
+  environment:
+    name: production
+    url: 10.0.52.15
+  script:
+    - cd /server/back && git pull && exit
+  only:
+    - master
+
+    
